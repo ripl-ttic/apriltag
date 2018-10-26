@@ -1,0 +1,23 @@
+A pods implementation of the AprilTags Visual Fiducial System library (https://april.eecs.umich.edu/software/apriltag.html), developed and maintained by Edwin Olson at the University of Michigan.
+
+This version is based upon version 2016-12-01 (0.9.8) of the AprilTag library. Newer versions may be available at https://april.eecs.umich.edu/software/apriltag.html.
+
+This software is constructed according to the Pods software policies and
+templates.  The policies and templates can be found at:
+
+  http://sourceforge.net/projects/pods
+
+====
+
+Name:         apriltag
+Maintainers:  Matthew Walter
+Summary:      A pods implementation of the AprilTags Visual Fiducial System library
+Description:
+  A pods implementation of the AprilTags Visual Fiducial System library (https://april.eecs.umich.edu/software/apriltag.html), developed and maintained by Edwin Olson at the University of Michigan.
+
+  For more information regarding the library, see src/README as well as the official AprilTag website https://april.eecs.umich.edu/software/apriltag.html
+
+Requirements:
+  FILL-ME-IN
+
+License:      BSD
